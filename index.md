@@ -1,2 +1,3 @@
 ## Welcome to Project Helicon
 
+Electronic Health Record (EHR) is becoming the central information object for various aspects of healthcare and medical related industries, from pharmaceuticals to bioengineering. This review provides a presentation of the state of affairs in several aspects of EHR, including security and privacy, data mining, design of decision support systems, acceptance by users and producers of health resources, and system implementation.
