@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Project Helicon
 
 You can use the [editor on GitHub](https://github.com/ballipongala/mthelicon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
